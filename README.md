@@ -45,7 +45,9 @@ Application should allow users to delete previously saved notes.
 
 ## Images/Content
 ---
+![Note Taker img](./public/assets/img/../images/Note-Taker1.png)
 
+![Note Taker img](./public/assets/img/../images/Note-Taker2.png)
 ---
 ## Authors
 
